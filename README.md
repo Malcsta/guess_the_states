@@ -1,3 +1,5 @@
-This is a simple game that will be the beginning of a larger game that will
-eventually ask the user to name all 197 countries. I decided to use US states
-to start as it will be less code, and will give me a foundation of what to do.
+This is a simple game that I plan on eventually expanding into a 197
+country guessing game. As of now, The game only works with US states
+but I will be expanding as I go. I also plan at some point to try
+and incorporate the come with the tkinter library to bring the game
+to a dedicated GUI.
